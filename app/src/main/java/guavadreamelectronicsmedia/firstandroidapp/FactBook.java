@@ -21,10 +21,6 @@ public class FactBook {
             "On average, it takes 66 days to form a new habit.",
             "Mammoths still walked the earth when the Great Pyramid was being built.",
             "Treehouse is not actually in a tree.",
-            "Reptilians are aliens from the Draco star system that are enslaving Humans throughout the galaxies.",
-            "We are Human-Alien-Hybrids put on planet Earth as an ongoing experiment.",
-            "GOD-SOURCE is pure love and is not human and is not male nor female.",
-            "David Icke and Jordan Maxell are right!",
             "Our birth right is love, food, fresh water, shelter, well-being and prosperity."};
 
     // Methods - Actions the object can take
