@@ -21,8 +21,7 @@ public class FactBook {
             "On average, it takes 66 days to form a new habit.",
             "Mammoths still walked the earth when the Great Pyramid was being built.",
             "Treehouse is not actually in a tree.",
-            "Our birth right is love, food, fresh water, shelter, well-being and prosperity."};
-
+   
     // Methods - Actions the object can take
     public String getFact() {
         String fact = "";
